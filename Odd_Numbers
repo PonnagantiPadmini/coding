@@ -5,9 +5,10 @@ class Odd_Numbers
 		int i;
 		for(i=1;i<=23;i++)
 		{
-			if(i%2!=0)
-			System.out.print(i+"    ");
-			i++;
+		  if(i%2!=0)
+		  System.out.print(i+"    ");
 		}
 	}
 }
+
+
